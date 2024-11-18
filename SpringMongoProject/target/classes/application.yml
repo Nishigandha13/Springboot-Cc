@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      uri : mongodb+srv://newuser:New12345@nishigandha.adjl9.mongodb.net/?retryWrites=true&w=majority&appName=Nishigandha
+      database: LindaDb
